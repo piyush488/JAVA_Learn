@@ -13,7 +13,7 @@ Learn:
     main method
     
 
-Practice (Very Basic — Only Syntax):
+Practice (Very Basic — Only Syntax)
 
     Print your name.
 
