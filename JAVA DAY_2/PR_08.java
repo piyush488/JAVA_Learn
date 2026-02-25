@@ -1,6 +1,6 @@
 // ✅ Convert int to double
 
-public class PR_8 {
+public class PR_08 {
     public static void main (String [] args){
         int num = 25;
 
